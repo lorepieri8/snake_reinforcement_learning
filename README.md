@@ -11,7 +11,13 @@ Create a Python3.9 virtual environment, for instance `python3.9 -m venv .venv`
 pip install -r requirements.txt
 ```
 
-# Run 
+# Play 
+
+```
+python3 human.py
+```
+
+# Run AI 
 
 ```
 python3 ai.py
